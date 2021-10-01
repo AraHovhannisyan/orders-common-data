@@ -1,22 +1,22 @@
-/Users/ara.hovhannisyan/Documents/backend/Common classes/src/main/java/common/dto/nativeMenu/OptionDTO.java
-/Users/ara.hovhannisyan/Documents/backend/Common classes/src/main/java/common/dto/nativeMenu/LocationDTO.java
-/Users/ara.hovhannisyan/Documents/backend/Common classes/src/main/java/common/dto/nativeMenu/Provider.java
-/Users/ara.hovhannisyan/Documents/backend/Common classes/src/main/java/common/dto/nativeMenu/AvailabilityDTO.java
-/Users/ara.hovhannisyan/Documents/backend/Common classes/src/main/java/common/dto/nativeMenu/CategoryDTO.java
-/Users/ara.hovhannisyan/Documents/backend/Common classes/src/main/java/common/dto/nativeMenu/BusinessDTO.java
-/Users/ara.hovhannisyan/Documents/backend/Common classes/src/main/java/common/dto/ExportOrderDTO.java
-/Users/ara.hovhannisyan/Documents/backend/Common classes/src/main/java/common/dto/nativeMenu/MenuLocationDTO.java
-/Users/ara.hovhannisyan/Documents/backend/Common classes/src/main/java/common/dto/nativeMenu/OptionGroupDTO.java
-/Users/ara.hovhannisyan/Documents/backend/Common classes/src/main/java/common/dto/nativeMenu/Changes.java
-/Users/ara.hovhannisyan/Documents/backend/Common classes/src/main/java/common/dto/nativeMenu/PriceOverrideDTO.java
-/Users/ara.hovhannisyan/Documents/backend/Common classes/src/main/java/common/dto/nativeMenu/TagDTO.java
-/Users/ara.hovhannisyan/Documents/backend/Common classes/src/main/java/common/dto/nativeMenu/SpecialHoursDTO.java
-/Users/ara.hovhannisyan/Documents/backend/Common classes/src/main/java/common/dto/nativeMenu/TimeIntervalDTO.java
-/Users/ara.hovhannisyan/Documents/backend/Common classes/src/main/java/common/dto/nativeMenu/MenuDTO.java
-/Users/ara.hovhannisyan/Documents/backend/Common classes/src/main/java/common/dto/nativeMenu/CreateMenuDTO.java
-/Users/ara.hovhannisyan/Documents/backend/Common classes/src/main/java/common/dto/nativeMenu/MenuUpdateDTO.java
-/Users/ara.hovhannisyan/Documents/backend/Common classes/src/main/java/common/dto/nativeMenu/ChangeRequestDTO.java
-/Users/ara.hovhannisyan/Documents/backend/Common classes/src/main/java/common/dto/nativeMenu/RegularHoursDTO.java
-/Users/ara.hovhannisyan/Documents/backend/Common classes/src/main/java/common/dto/nativeMenu/MappingDTO.java
-/Users/ara.hovhannisyan/Documents/backend/Common classes/src/main/java/common/dto/nativeMenu/NativeMenuDTO.java
-/Users/ara.hovhannisyan/Documents/backend/Common classes/src/main/java/common/dto/nativeMenu/MenuItemDTO.java
+/Users/ara.hovhannisyan/orders-common-data/src/main/java/co/orders/common/dto/nativeMenu/RegularHoursDTO.java
+/Users/ara.hovhannisyan/orders-common-data/src/main/java/co/orders/common/dto/nativeMenu/MenuDTO.java
+/Users/ara.hovhannisyan/orders-common-data/src/main/java/co/orders/common/dto/nativeMenu/Provider.java
+/Users/ara.hovhannisyan/orders-common-data/src/main/java/co/orders/common/dto/ExportOrderDTO.java
+/Users/ara.hovhannisyan/orders-common-data/src/main/java/co/orders/common/dto/nativeMenu/OptionGroupDTO.java
+/Users/ara.hovhannisyan/orders-common-data/src/main/java/co/orders/common/dto/nativeMenu/MenuItemDTO.java
+/Users/ara.hovhannisyan/orders-common-data/src/main/java/co/orders/common/dto/nativeMenu/TimeIntervalDTO.java
+/Users/ara.hovhannisyan/orders-common-data/src/main/java/co/orders/common/dto/nativeMenu/TagDTO.java
+/Users/ara.hovhannisyan/orders-common-data/src/main/java/co/orders/common/dto/nativeMenu/ChangeRequestDTO.java
+/Users/ara.hovhannisyan/orders-common-data/src/main/java/co/orders/common/dto/nativeMenu/LocationDTO.java
+/Users/ara.hovhannisyan/orders-common-data/src/main/java/co/orders/common/dto/nativeMenu/NativeMenuDTO.java
+/Users/ara.hovhannisyan/orders-common-data/src/main/java/co/orders/common/dto/nativeMenu/MenuUpdateDTO.java
+/Users/ara.hovhannisyan/orders-common-data/src/main/java/co/orders/common/dto/nativeMenu/CreateMenuDTO.java
+/Users/ara.hovhannisyan/orders-common-data/src/main/java/co/orders/common/dto/nativeMenu/SpecialHoursDTO.java
+/Users/ara.hovhannisyan/orders-common-data/src/main/java/co/orders/common/dto/nativeMenu/AvailabilityDTO.java
+/Users/ara.hovhannisyan/orders-common-data/src/main/java/co/orders/common/dto/nativeMenu/MappingDTO.java
+/Users/ara.hovhannisyan/orders-common-data/src/main/java/co/orders/common/dto/nativeMenu/MenuLocationDTO.java
+/Users/ara.hovhannisyan/orders-common-data/src/main/java/co/orders/common/dto/nativeMenu/BusinessDTO.java
+/Users/ara.hovhannisyan/orders-common-data/src/main/java/co/orders/common/dto/nativeMenu/PriceOverrideDTO.java
+/Users/ara.hovhannisyan/orders-common-data/src/main/java/co/orders/common/dto/nativeMenu/Changes.java
+/Users/ara.hovhannisyan/orders-common-data/src/main/java/co/orders/common/dto/nativeMenu/CategoryDTO.java
+/Users/ara.hovhannisyan/orders-common-data/src/main/java/co/orders/common/dto/nativeMenu/OptionDTO.java
